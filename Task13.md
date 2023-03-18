@@ -10,6 +10,7 @@ This assignment introduces the following elements & concepts. You should use eve
 
 Create the following webpages in the project folder. For each of these 3 pages, use the autocomplete-snippets package [LINK](https://atom.io/packages/autocomplete-snippets) to create the html boilerplate. You should have installed it already in Task 08. Simply write html and press enter. That is the only content you need to have on these 3 pages at this time.
 
+
 - **primary.html** (<title> is Primary :: Colors)
 - **secondary.html** (<title> is Secondary :: Colors)
 - **tertiary-01.html** (<title> is Tertiary :: Colors)
